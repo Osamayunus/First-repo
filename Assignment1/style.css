@@ -54,11 +54,22 @@ yellow-background-color {
 }
 
 .half-width {
-    width: 10%;
-    padding-left: 10px;
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 20px;
     padding-right: 20px;
 }
 
 .text-color {
-    color: rgba(122, 103, 103, 0.404);
+    color: rgba(122, 103, 103, 0.699);
+}
+
+.img {
+    height: 25%;
+
+}
+
+.text-part2 {
+    padding-top: 100px;
+
 }
