@@ -35,3 +35,26 @@ body {
 
 
 }
+
+,
+yellow-background-color {
+    border-radius: 5px;
+    background-color: rgba(177, 151, 7, 0.514);
+
+}
+
+.red-background-color {
+    border-radius: 5px;
+    background-color: rgba(175, 68, 68, 0.74);
+
+}
+
+.ash-background-color {
+    border-radius: 5px background-color:red;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10px;
+
+}
