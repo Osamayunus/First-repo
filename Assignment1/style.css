@@ -103,14 +103,6 @@ body {
     text-align: center;
 }
 
-.email {
-    font-weight: 700;
-    color: rgb(135, 130, 130);
-    background-image: linear-gradient(orange red);
-    padding: 10px 60px;
-    border-radius: 5px;
-}
-
 .Align-text {
     text-align: center;
     padding: 100px 25% 5px 25%;
@@ -145,9 +137,36 @@ body {
 }
 
 .email-background-part {
-    background-color: rgba(243, 243, 171, 0.63);
-    height: 200px;
-    width: 100%;
-    margin: 30px 300px 100px 300px;
+    padding-left: 25%;
+    padding-top: 8%;
+    padding-bottom: 4%;
+    height: 2cm;
+    width: 60%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 8%;
+    background-color: rgba(240, 245, 103, 0.274);
+}
 
+.email {
+    background-color: rgba(93, 107, 107, 0.281);
+    width: 9cm;
+    height: 1cm;
+}
+
+.bottom-background {
+    background-color: rgb(16, 15, 15);
+    height: 25%;
+    width: 51%;
+    margin-top: 3cm;
+}
+
+.color {
+    font-family: cursive;
+    color: red;
+    font-size: xx-large;
+}
+
+.last-part-footer {
+    color: rgba(159, 201, 201, 0.587);
 }
