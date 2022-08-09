@@ -27,7 +27,7 @@ body {
 
 }
 
-.Align-text {
+.Align-text2 {
     text-align: center;
     padding-top: 300px;
     padding-left: 25%;
@@ -40,16 +40,16 @@ body {
 
 .yellow-background-color {
     border-radius: 5px;
-    background-color: beige;
+    background-color: rgba(245, 245, 220, 0.235);
 }
 
 .red-background-color {
     border-radius: 5px;
-    background-color: rgb(248, 188, 188)
+    background-color: rgba(248, 188, 188, 0.242)
 }
 
 .ash-background-color {
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.235);
 }
 
 .half-width {
@@ -106,4 +106,22 @@ body {
     background-image: linear-gradient(orange red);
     padding: 10px 60px;
     border-radius: 5px;
+}
+
+.Align-text {
+    text-align: center;
+    padding: 10px 25% 5px 25%;
+}
+
+.padding-donation-plan {
+    padding: 10px 8% 20px 8%;
+}
+
+.padding {
+    padding: 20px 20px 20px 20px;
+}
+
+.border {
+    padding-left: 10px;
+    padding-right: 10px;
 }
